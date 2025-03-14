@@ -7,9 +7,10 @@ Contact: christian.salvatore@iusspavia.it
 Please, leave any comment/suggestion about the course [here](TBD).
 
 ## Program
-* February 24-25 (Pietrabissa)
-* March 13th, 10-13 Arosio - 1.17
-* March 13th, 14-17 Salvatore - 1.17
+* February 24-25 (Pietrabissa) ✓
+* March 13th, 10-13 Arosio - 1.17 ✓
+* March 13th, 14-17 Salvatore - 1.17 ✓
+    * Artificial intelligence, machine learning, deep learning: introduction and definitions   
 * March 14th, 10-13 Salvatore - 1.17
 * March 14th, 14-17 Arosio - 1.17
 * March 20th, 10-13 Arosio – 1.17
