@@ -56,7 +56,7 @@ Please, leave any comment/suggestion about the course [here](TBD).
 <br>
 
 ## Material
-[__[Slides]__](TBD)
+[__[Slides]__](https://drive.google.com/drive/folders/1t_AXmkEUzHy-lLjT3y7KBLnH9jUY4q7Y?usp=sharing)
 [__[Literature]__](TBD)
 
 ## Comments and suggestions
