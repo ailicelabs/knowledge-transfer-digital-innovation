@@ -29,13 +29,21 @@ Please, leave any comment/suggestion about the course [here](TBD).
   
 * March 21th, 14-17 Arosio - 1.16
   
-* March 27th, 10-13 Arosio – 1.15
+* March 27th, 10-13 Arosio – 1.15 MOVED
   
-* March 27th, 14-17 Salvatore – 1.15
+* March 27th, 14-17 Salvatore – 1.15 MOVED
   
-* March 28th, 10-13 Salvatore - 1.16
+* March 28th, 10-13 Salvatore - 1.16 MOVED
   
-* March 28th, 14-17 Arosio - 1.16
+* March 28th, 14-17 Arosio - 1.16 MOVED
+
+* April 8th, 10-13 Arosio – TBD
+  
+* April 8th, 14-17 Salvatore – TBD
+  
+* April 9th, 10-13 Salvatore - TBD
+  
+* April 9th, 14-17 Arosio - TBD
   
 * April 15th, 9:30-12:30 Arosio – 1.15 (1.16 from 11 to 12:30)
   
@@ -45,13 +53,17 @@ Please, leave any comment/suggestion about the course [here](TBD).
   
 * April 16th, 14-17 Arosio - Sala del Camino
   
-* April 22th, 10-13 Arosio - 1.15
+* April 22th, 10-13 Arosio - ONLINE
   
-* April 22th, 14-17 Salvatore - 1.15
+* April 22th, 14-17 Salvatore - ONLINE 
   
-* April 23th, 10-13 Salvatore - 1.16
+* April 23th, 10-13 Salvatore - 1.16 MOVED
   
-* April 23th, 14-17 Arosio - 1.16
+* April 23th, 14-17 Arosio - 1.16 MOVED
+
+* May 6th, 10-13 Salvatore - TBD
+  
+* May 6th, 14-17 Arosio - TBD
 
 <br>
 
