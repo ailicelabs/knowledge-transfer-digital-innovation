@@ -28,7 +28,7 @@ Please, leave any comment/suggestion about the course [here](TBD).
      * Feature extraction
      * Feature selection
      * Radiomics
-   * Applications to medical imaging and potential causes of bias
+   * Applications of AI to medical imaging and potential causes of bias
    * Image segmentation
   
 * March 20th, 10-13 Arosio – 1.17
