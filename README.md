@@ -20,6 +20,10 @@ Please, leave any comment/suggestion about the course [here](TBD).
    * Evaluation metrics of machine learning in healthcare
      
 * March 14th, 14-17 Arosio - 1.17 ✓
+  
+* March 20th, 10-13 Arosio – 1.17 ✓
+  
+* March 20th, 14-17 Salvatore – 1.17 ✓
    * Evaluation metrics of machine learning in healthcare
    * ROC space and AUC
    * Discminiation vs Calibration
@@ -30,14 +34,10 @@ Please, leave any comment/suggestion about the course [here](TBD).
      * Radiomics
    * Applications of AI to medical imaging and potential causes of bias
    * Image segmentation
+       
+* March 21th, 10-13 Salvatore - 1.16 ✓
   
-* March 20th, 10-13 Arosio – 1.17
-  
-* March 20th, 14-17 Salvatore – 1.17
-  
-* March 21th, 10-13 Salvatore - 1.16
-  
-* March 21th, 14-17 Arosio - 1.16
+* March 21th, 14-17 Arosio - 1.16 MOVED
   
 * March 27th, 10-13 Arosio – 1.15 MOVED
   
