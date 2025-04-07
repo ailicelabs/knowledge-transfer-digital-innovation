@@ -37,19 +37,19 @@ Please, leave any comment/suggestion about the course [here](TBD).
        
 * March 21th, 10-13 Salvatore - 1.16 ✓
   
-* March 21th, 14-17 Arosio - 1.16 MOVED
+* ~~March 21th, 14-17 Arosio - 1.16 MOVED~~
   
-* March 27th, 10-13 Arosio – 1.15 MOVED
+* ~~March 27th, 10-13 Arosio – 1.15 MOVED~~
   
-* March 27th, 14-17 Salvatore – 1.15 MOVED
+* ~~March 27th, 14-17 Salvatore – 1.15 MOVED~~
   
-* March 28th, 10-13 Salvatore - 1.16 MOVED
+* ~~March 28th, 10-13 Salvatore - 1.16 MOVED~~
   
-* March 28th, 14-17 Arosio - 1.16 MOVED
+* ~~March 28th, 14-17 Arosio - 1.16 MOVED~~
 
-* April 8th, 10-13 Arosio – TBD
+* April 8th, 10-13 Arosio – 1.17 (Broletto)
   
-* April 8th, 14-17 Salvatore – TBD
+* April 8th, 14-17 Salvatore – Aula 1 (Marelli)
   
 * April 9th, 10-13 Salvatore - TBD
   
@@ -67,9 +67,9 @@ Please, leave any comment/suggestion about the course [here](TBD).
   
 * April 22th, 14-17 Salvatore - ONLINE 
   
-* April 23th, 10-13 Salvatore - 1.16 MOVED
+* ~~April 23th, 10-13 Salvatore - 1.16 MOVED~~
   
-* April 23th, 14-17 Arosio - 1.16 MOVED
+* ~~April 23th, 14-17 Arosio - 1.16 MOVED~~
 
 * May 6th, 10-13 Salvatore - TBD
   
