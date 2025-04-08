@@ -51,7 +51,7 @@ Please, leave any comment/suggestion about the course [here](TBD).
   
 * April 8th, 14-17 Salvatore – Aula 1 (Marelli)
   
-* April 9th, 10-13 Salvatore - TBD
+* April 9th, 10-13 Salvatore - [Remote meeting](https://meet.google.com/xvo-wjwz-rnc)
   
 * April 9th, 14-17 Arosio - TBD
   
