@@ -81,7 +81,7 @@ Please, leave any comment/suggestion about the course [here](TBD).
 
 ## Material
 [__[Slides]__](https://drive.google.com/drive/folders/1t_AXmkEUzHy-lLjT3y7KBLnH9jUY4q7Y?usp=sharing)
-[__[Literature]__](TBD)
+[__[Literature]__](https://drive.google.com/drive/u/4/folders/1n6gnzMFeak9ZmHIOzE7894-4uIZDN7YA)
 
 ## Comments and suggestions
 Please, leave any comment/suggestion about the course [here](TBD).
