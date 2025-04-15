@@ -47,7 +47,7 @@ Please, leave any comment/suggestion about the course [here](TBD).
   
 * ~~March 28th, 14-17 Arosio - 1.16 MOVED~~
 
-* April 8th, 10-13 Arosio – 1.17 (Broletto)
+* April 8th, 10-13 Arosio – 1.17 (Broletto) ✓
   
 * April 8th, 14-17 Salvatore – Aula 1 (Marelli) ✓
    * Technology Transfer and spinoff process: the case of DeepTrace Technologies
@@ -59,7 +59,8 @@ Please, leave any comment/suggestion about the course [here](TBD).
   
 * April 15th, 9:30-12:30 Arosio – 1.15 (1.16 from 11 to 12:30)
   
-* April 15th, 14-17 Salvatore  - 1.16
+* April 15th, 14-17 Salvatore  - 1.16 ✓
+   * Elevator pitch e pitch deck
   
 * April 16th, 10-13 Salvatore - 1.15
   
