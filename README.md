@@ -62,13 +62,15 @@ Please, leave any comment/suggestion about the course [here](TBD).
 * April 15th, 14-17 Salvatore  - 1.16 ✓
    * Elevator pitch e pitch deck
   
-* April 16th, 10-13 Salvatore - 1.15
+* April 16th, 10-13 Salvatore - 1.15 ✓
+   * Mission, vision, strategy
+   * Case study: practical session
   
-* April 16th, 14-17 Arosio - Sala del Camino
+* April 16th, 14-17 Arosio - Sala del Camino ✓
   
 * April 22th, 10-13 Arosio - ONLINE
   
-* April 22th, 14-17 Salvatore - ONLINE 
+* April 22th, 14-17 Salvatore - [Remote meeting](https://meet.google.com/xvo-wjwz-rnc)
   
 * ~~April 23th, 10-13 Salvatore - 1.16 MOVED~~
   
