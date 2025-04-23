@@ -76,9 +76,9 @@ Please, leave any comment/suggestion about the course [here](TBD).
   
 * ~~April 23th, 14-17 Arosio - 1.16 MOVED~~
 
-* May 6th, 10-13 Salvatore - TBD
+* May 6th, 10-13 Salvatore - Sala Riunioni, Broletto
   
-* May 6th, 14-17 Arosio - TBD
+* May 6th, 14-17 Arosio - 1.17
 
 <br>
 
